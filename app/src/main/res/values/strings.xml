@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slot Machine</string>
+    <string name ="balance">Balance \n £ %1$d </string>
+    <string name ="win">WIN \n £ %1$d </string>
+    <string name ="linebet">Linebet £ %1$d</string>
+    <string name ="lines">Lines: %1$d</string>
+
+</resources>
